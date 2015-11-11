@@ -1,0 +1,7 @@
+[core]
+	autocrlf = input
+[gui]
+	recentrepo = F:/apps/GitPortable/Data/home
+[user]
+	name = Dave
+	email = david.s.woo@vanderbilt.edu
